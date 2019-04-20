@@ -1,0 +1,2 @@
+# adiod
+Untuk ke depanya
